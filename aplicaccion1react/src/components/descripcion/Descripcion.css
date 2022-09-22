@@ -1,0 +1,16 @@
+#descripcion{
+    display: flex;
+    padding: 5rem;
+    align-items: center;
+    justify-content: flex-end;
+}
+.tet-descripcion{
+    flex-basis: 60%;
+}
+.img-descripcion{
+    flex-basis: 40%;
+    text-align: center;
+}
+.img-descripcion img{
+    width: 100%;
+}

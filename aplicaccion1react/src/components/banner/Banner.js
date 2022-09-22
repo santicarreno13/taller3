@@ -1,8 +1,9 @@
 import "./Banner.css";
 function Banner(){
     return(
-        <sections>
-            Aqui el baner
+        <sections id="banner">
+            <h4>Lorem ipsum dolor sit ameliter, <br></br>
+            consectetur adpiscinig elit</h4>
         </sections>
     );
 }
